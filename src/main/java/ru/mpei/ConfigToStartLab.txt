@@ -1,0 +1,2 @@
+-agents
+Smith:ru.mpei.FunctionAgent(true);Brown:ru.mpei.FunctionAgent(false);Jones:ru.mpei.FunctionAgent(false)
